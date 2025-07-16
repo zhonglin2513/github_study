@@ -3,3 +3,4 @@ Git is free software
 add one line as comments
 this is free doc 
 git has a mutable index called stage 
+git tracks changes of files.

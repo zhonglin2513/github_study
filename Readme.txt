@@ -7,4 +7,9 @@ git tracks changes of files.
 first time change readme.txt 
 second time change readme.txt
 Create a new branch is quick.
+<<<<<<< HEAD
 create a feature branch is quick and simple.
+=======
+create feature1 branch 
+>>>>>>> feature1
+Create a feature1 branch is quick and simple.

@@ -13,3 +13,4 @@ create a feature branch is quick and simple.
 create feature1 branch 
 >>>>>>> feature1
 Create a feature1 branch is quick and simple.
+Try to git stash command 

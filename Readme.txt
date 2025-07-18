@@ -25,3 +25,4 @@ Try to run git stash command
 Try to run git stash command 
 >>>>>>> tempDev
 add calc function into hello.py 
+update it by github directly

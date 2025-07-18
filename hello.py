@@ -6,4 +6,4 @@ def Calc():
     for i in range(10):
         sum=sum+i
     return sum
-    
+print('remote say hello!')

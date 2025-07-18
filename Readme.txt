@@ -24,3 +24,4 @@ Try to run git stash command
 >>>>>>> 1ec682b (add run on line 16)
 Try to run git stash command 
 >>>>>>> tempDev
+add calc function into hello.py 

@@ -3,3 +3,4 @@ It is very important to me.
 all of change should be archieve into github server. 
 operate repo file(config.txt) by VS code tool
 add 1 line to pull code in VS Code
+switch user in vs code to operate github 
